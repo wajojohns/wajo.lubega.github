@@ -1,0 +1,152 @@
+h1{
+    color:rgb(22, 17, 5);
+    font-style: italic;
+}
+#p1{
+    align-items: center;
+    font-style: oblique;
+    color: blue;
+}
+nav{
+    background-color:rgb(13, 150, 192);
+    display: flex;
+    justify-content:space-between;
+}
+ul{
+    list-style: none;
+    color: aliceblue;
+    display: flex;
+    
+}
+li{
+    margin-right: 10px;
+    
+}
+ li:hover{
+    background-color:rgb(12, 12, 11);
+    color: rgb(224, 224, 231);
+}
+button{
+    border-radius: 8%;
+    
+
+}
+h2{
+    color: rgb(5, 5, 82)
+    align-text: centre;
+}
+#s2{
+    background-image: url("wallpaper/2016_g_power_mercedes_amg_g63-2560x1440.jpg");
+    border-top-right-radius: 30%;
+    height: 900px;
+    width: 1000px;
+    color:rgba(223, 226, 13, 0.61);
+}
+button:hover{
+    color:blue;
+}
+center{
+    color:black
+
+    
+}
+#a1{
+    color:whitesmoke;
+}
+#b1{
+    color:blue;
+}
+#b2{
+    color: brown;
+}
+#f1{
+    color:gold;
+}
+#s1{
+   margin-left: 385px;
+    background-color:rgb(42, 110, 165);
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    margin-bottom: 150px;
+    
+}
+button{
+    margin-left: 40px;
+    width: 400px;
+    height: 30px;
+    background-color: blue;
+    color:whitesmoke;
+    border-radius: 10px;
+    border-color:none;
+}
+label{
+    margin-left: 40px;
+    font-size: 20px;
+    color:goldenrod;
+}
+input{
+    margin-left: 40px;
+    width:400px;85    height:30px;
+    border-radius: 10px;
+    
+}
+h2{
+    margin-left: 370px;
+    color:green;
+    padding-bottom: 20px;
+    position: relative;
+    
+    
+    
+}
+#h22{
+    margin-left:200px;
+    color:honeydew;
+    position:relative;
+}
+#big{
+    background-color: rgb(39, 190, 153);
+    width: 2000px;
+    height: 1000px;
+    position:absolute;
+    margin-right: 450px;
+    padding-top: 20px;
+    margin-top: 20px;
+    
+}
+#i1{
+    margin-left: 150px;
+}
+#img1{
+    height: 300px;
+    width: 500px;
+    margin-left: 30px;
+}
+h3{
+    align-items: center;
+    color:rgb(59, 49, 143)
+}
+#n1{
+    background-color: rgb(80, 140, 168);
+    display: flex;
+    padding-right: 90px;
+    color: black;
+}
+#n2{
+    background-color: rgb(79, 73, 161);
+    margin-left: 90px;
+    color: black;
+}
+#br1{
+}
+video{
+    height: 300px;
+    width: 500px;
+}
+    
+
+
+
+
+
